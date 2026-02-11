@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment (named malaria)
+malaria/
+
+# Environment variables
+.env
+
+# Django (if used)
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# PyTorch / ML model files (large binaries)
+*.pt
+*.pth
+*.onnx
+checkpoints/
+runs/
+logs/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Datasets (exclude large image folders)
+data/raw/
+data/datasets/
+*.jpg
+*.jpeg
+*.png
+*.tif
+
+# Allow documentation images (small screenshots)
+!docs/images/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
