@@ -1,4 +1,4 @@
-*** Embedded Smart AI System for Malaria Detection ***
+* Embedded Smart AI System for Malaria Detection 
 
 📖 Overview
 
