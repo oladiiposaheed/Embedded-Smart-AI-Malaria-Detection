@@ -1,4 +1,4 @@
-***Embedded Smart AI System for Malaria Detection***
+***Embedded Smart AI System for Malaria Detection
 
 📖 Overview
 
@@ -15,8 +15,11 @@ This project uses the Cell Images for Detecting Malaria dataset from Kaggle
 ⚠️ Note: The dataset is not included in this repository due to size (~630MB).
 Please download it directly from Kaggle and place it in the following folder structure:
 data/raw/
+
 │── Parasitized/
+
 │── Uninfected/
+
 │── Corrupted/
 
 🚀 Usage
