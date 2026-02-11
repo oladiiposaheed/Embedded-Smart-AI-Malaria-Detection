@@ -4,8 +4,8 @@
 
 This repository contains the implementation of an AI powered system for malaria detection using blood smear images. The project leverages Convolutional Neural Networks (CNNs) built with PyTorch, optimized for deployment on embedded devices, and integrated with a lightweight web interface for usability in resource limited healthcare settings.
 
-2. Virtual Environment
-3. 
+Virtual Environment
+
 malaria\Scripts\activate      # Windows
 
 5. Install Dependencies
